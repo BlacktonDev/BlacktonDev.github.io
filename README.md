@@ -7,8 +7,10 @@
 #### Intro
 Cat-astrophe es un shooter en primera persona por oleadas y sistema de mejoras de armas desarrollado en Unreal Engine 5, donde el jugador asume el papel de un valiente perro enfrentándose a hordas de gatos utilizando un arsenal único de armas acuáticas.
 El juego desafía a los jugadores a sobrevivir a oleadas cada vez más difíciles de felinos, utilizando tres armas principales: una pistola de agua de precisión, una escopeta de amplio espectro y una resortera para disparos de trayectoria curva. Cada arma ofrece una mecánica de juego única, obligando al jugador a adaptar constantemente su estrategia.
+
 ##### Main Objective
 Desarrollar un shooter por oleadas en Unreal Engine 5, implementando un sistema de combate dinámico con múltiples armas y mecánicas de movimiento fluidas, todo ello en un entorno temático de perros vs gatos.
+
 ##### Secondary Objectives
 
 - Diseñar e implementar tres tipos de armas con mecánicas distintivas:
