@@ -40,41 +40,10 @@ El desarrollo de Cat-astrophe fue fundamental para mi crecimiento como programad
 - Integración de sistemas: Este proyecto me enseñó a integrar múltiples sistemas (combate, movimiento, progresión) de manera eficiente, una habilidad esencial para proyectos de mayor escala.
 
 ### MegaDungeon
-
-#### Intro
-##### Main Objective
-Text
-##### Secondary Objectives
-Text
-
-### UNIAT Veracruz Edition
-
-#### Intro
-##### Main Objective
-Text
-##### Secondary Objectives
-Text
  
 ### Neo-Planet
 
-#### Intro
-##### Main Objective
-Text
-##### Secondary Objectives
-Text
-
 ### Another Zombie Game
-
-#### Intro
-##### Main Objective
-Text
-##### Secondary Objectives
-Text
  
 ### Baloran
 
-#### Intro
-##### Main Objective
-Text
-##### Secondary Objectives
-Text
