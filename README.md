@@ -1,6 +1,3 @@
----
-youtubeId: putYourIDHere
----
 # BlacktonDev.github.io
 
 ## Projects
