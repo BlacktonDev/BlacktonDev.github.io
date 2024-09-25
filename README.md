@@ -1,10 +1,12 @@
-
+---
+youtubeId: 3X-iqFRGqbc
+---
 # BlacktonDev.github.io
 
 ## Projects
 
 ### MegaDungeon
-<iframe width="726" height="420" src="https://www.youtube.com/embed/3X-iqFRGqbc" title="horizontally spinning rat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 #### Intro
 ##### Main Objective
