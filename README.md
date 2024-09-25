@@ -1,37 +1,50 @@
 # BlacktonDev.github.io
 
-
 ## Projects
+
+### Cat-astrophe
 - Intro
   - Main Objective
     - Text
   - Secondary Objective
     - Text
 
-### Cat-astrophe
-- video
-- description
-
 ### MegaDungeon
-- video
-- description
+- Intro
+  - Video 
+  - Main Objective
+    - Text
+  - Secondary Objective
+    - Text
 
 ### UNIAT Veracruz Edition
-- video
-- description
+- Intro
+  - Video 
+  - Main Objective
+    - Text
+  - Secondary Objective
+    - Text
 
 ### Neo-Planet
-- video
-- description
-
-### Putrid Evolution
-- video
-- description
+- Intro
+  - Video 
+  - Main Objective
+    - Text
+  - Secondary Objective
+    - Text
 
 ### Another Zombie Game
-- video
-- description
+- Intro
+  - Video 
+  - Main Objective
+    - Text
+  - Secondary Objective
+    - Text
 
 ### Baloran
-- video
-- description
+- Intro
+  - Video 
+  - Main Objective
+    - Text
+  - Secondary Objective
+    - Text
